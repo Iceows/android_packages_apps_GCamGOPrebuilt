@@ -1,5 +1,5 @@
 android_app_import {
-	name: "GCamGOPrebuilt",
+	name: "GcamGo",
 	owner: "google",
 	apk: "GCamGOPrebuilt.apk",
 	presigned: true,
